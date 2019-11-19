@@ -14,8 +14,7 @@
     "stop": "egg-scripts stop --title=egg-server-my-api",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",
-    "lint": "eslint .",
-    "autod": "autod"
+    "lint": "eslint ."
   },
   "egg": {
     "declarations": false
