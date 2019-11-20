@@ -1,6 +1,4 @@
-# my-api
-
-基于 Node 的API
+# egg-demo
 
 ## QuickStart
 
